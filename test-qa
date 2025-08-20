@@ -1,0 +1,5 @@
+build:
+  version: "2.0"
+
+test:
+  message: "this is a test message from qa env."
